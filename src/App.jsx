@@ -1,12 +1,12 @@
 import React from 'react'
-import Card from './Card'
-
+import './App.css'
 
 export default function main() {
     return(
         <div className='main'>
-            <Card />
-            <Card />
+            <p className='intro'>
+                Aseer Baset
+            </p>
         </div>
     );
 }
