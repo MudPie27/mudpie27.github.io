@@ -1,0 +1,35 @@
+.intro {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50%;
+    width: 80%;
+    background-color: rgb(252, 199, 130);
+
+    font-size: 40px;
+}
+
+.text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    padding-right: 30px;
+}
+
+.par {
+    margin: 0px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 80px;
+}
+
+.sub {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+.nyan {
+    height: 300px;
+    padding-left: 30px;
+}
