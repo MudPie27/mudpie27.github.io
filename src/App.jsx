@@ -4,11 +4,9 @@ import './App.css'
 export default function main() {
     return(
         <div className="main">
-            <div className="box1">
-                <p className='pop'>box 2</p>
-            </div>
-            <div className="box2">
-                <p className='pop'>box 2</p>
+            <div className="intro">
+                <p className='p'> This is Mudpie </p>
+                <img src='src\assets\nyanko-sensei.png' alt="Logo" className='nyan'/>
             </div>
         </div>
     );
