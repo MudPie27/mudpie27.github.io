@@ -1,4 +1,4 @@
-# Mudpie27.github.io
+# mudpie27.github.io
 
 A personal website. Nothing on it yet
 
