@@ -1,10 +1,10 @@
 import React from 'react'
-import './intro.css'
 
-export default function intro() {
+export default function bar() {
   return (
     <div>
-  
+      Mudpie
+        
     </div>
     )
 }
